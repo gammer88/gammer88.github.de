@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1> Mama weinachts Backstube </h1>
+<h1> Mama Rezepte webseite </h1>
 <ul>
   <li><a href="#news">rezepte</a></li>
   <li><a href="#contact">kontakte</a></li>
