@@ -13,7 +13,7 @@
   <li><a href="#contact">kontakte</a></li>
   <li><a href="#bilder">bilder</a></li>
   <li><a href="">Back videos</a></li>
-<li><a href="https://gammer88.github.io/Video.de/"#vidos">kuchen rezepte</a></li>
+<li><a href="https://gammer88.github.io/Video.de/">kuchen rezepte</a></li>
 <li><a href="snack.html">pc live spiele</a></li>
 </ul>
 
